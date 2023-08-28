@@ -7,8 +7,6 @@ import java.util.Collection;
  * The backtracker.Backtracker depends on these routines in order to
  * solve a puzzle.  Therefore, all puzzles must implement this
  * interface.
- *
- * @author GCCIS Faculty
  */
 public interface Configuration<C extends Configuration<C>> {
     /**

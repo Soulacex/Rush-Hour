@@ -4,8 +4,6 @@ package backtracker;
  * This class represents the classic recursive backtracking algorithm.
  * It has a solver that can take a valid configuration and return a
  * solution, if one exists.
- * 
- * @author GCCIS Faculty
  */
 public class Backtracker<C extends Configuration<C>> {
     /*
