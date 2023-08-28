@@ -1,0 +1,9 @@
+1.) We need to keep track of the possible moves in moves.
+
+2.) LinkedList will be the preferred configuration to keep track
+of successor configurations. First, we will updatePostions in order to
+know where a move is on the board in the bunch of possible moves avaliable.
+
+3.) We can just return true if there is no invalid configuration. 
+
+4.) When the game isGameOver.
